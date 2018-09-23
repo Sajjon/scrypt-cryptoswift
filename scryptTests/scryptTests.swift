@@ -9,7 +9,7 @@
 import XCTest
 import CryptoSwift
 
-@testable import scrypt
+@testable import Scrypt
 
 class scryptTests: XCTestCase {
     

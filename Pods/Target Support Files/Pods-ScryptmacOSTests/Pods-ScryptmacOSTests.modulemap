@@ -1,0 +1,6 @@
+module Pods_ScryptmacOSTests {
+  umbrella header "Pods-ScryptmacOSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

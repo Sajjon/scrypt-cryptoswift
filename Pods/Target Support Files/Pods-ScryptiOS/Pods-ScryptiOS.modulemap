@@ -1,0 +1,6 @@
+module Pods_ScryptiOS {
+  umbrella header "Pods-ScryptiOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module Pods_ScryptmacOS {
+  umbrella header "Pods-ScryptmacOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
